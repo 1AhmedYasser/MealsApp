@@ -1,4 +1,4 @@
-# meals_app
+# Meals App
 
 The perfect meals app
 
