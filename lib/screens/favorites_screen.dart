@@ -20,7 +20,7 @@ class FavoritesScreen extends StatelessWidget {
           return MealItem(
               id: meal.id,
               title: meal.title,
-              imageUrl: meal.imageUrl
+              imageUrl: meal.imageUrl,
               duration: meal.duration,
               complexity: meal.complexity,
               affordability: meal.affordability,
